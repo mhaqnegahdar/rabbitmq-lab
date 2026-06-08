@@ -1,6 +1,6 @@
-# RabbitMQ Practice
+# RabbitMQ Lab
 
-These are some basic projects for practicing and learning **RabbitMQ** base on their own [doc](https://www.rabbitmq.com/getstarted.html). 
+These are basic projects exploring **RabbitMQ** based on their [documentation](https://www.rabbitmq.com/getstarted.html).
 
 
 
